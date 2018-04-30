@@ -1,3 +1,4 @@
+/* Sets all elements in the html to have a border bottom */
 * {
     border-bottom: 1px solid black;
 }
